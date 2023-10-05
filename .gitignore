@@ -1,5 +1,5 @@
 .env
-rsa_key.txt
+res_kex.txt
 node_modules
 package-lock.json
 
