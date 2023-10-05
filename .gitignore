@@ -1,0 +1,5 @@
+.env
+rsa_key.txt
+node_modules
+package-lock.json
+
